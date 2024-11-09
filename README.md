@@ -20,16 +20,35 @@
 
 <div align="center">
   <h3>Frontend & Design</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,mui,figma,tailwind" />
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=mui" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
   
   <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" /></a>
   
   <h3>Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,nextjs,flask,r" />
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a>
 </div>
 
 <br/>
@@ -38,4 +57,8 @@
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/TylerAustInW/TylerAustInW-TylerAustInW/raw/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&color=19C5F7&center=true&vCenter=true&lines=Made+with+%F0%9F%92%9D+By+Tyler" alt="Typing SVG">
 </div>
