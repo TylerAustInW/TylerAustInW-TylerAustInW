@@ -8,15 +8,19 @@
 
 <h3 align="center">A passionate software developer from TN 🌄</h3>
 
+<br/>
+
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 <div align="center">
   <a href="mailto:tylersphotography2018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1050228714773954600">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
 <br/>
-
-<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 
 <div align="center">
   <h3>Frontend & Design</h3>
@@ -37,9 +41,6 @@
   
   <h3>Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" /></a>
   
   <h3>Development Tools</h3>
@@ -49,6 +50,14 @@
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
   <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a>
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TylerAustInW&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerAustInW&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br/>
