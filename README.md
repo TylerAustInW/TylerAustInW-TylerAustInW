@@ -39,18 +39,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TylerAustInW/TylerAustInW/output/github-contribution-grid-snake.svg">
 
 <br><br><br></div>
-
----
-
-<div align="center">
-
-## ⚡ Stats ⚡
-
-</div>
-
-<br>
-
-<div align="center"><img width="390" src="https://github-readme-stats.vercel.app/?user=TylerAustInW&amp;count_private=true&amp;theme=react&amp;border_radius=10" alt="streak stats">
-  <img width="390" src="https://streak-stats.demolab.com/?user=TylerAustInW&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" alt="readme stats">
-  <br>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerAustInW&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs"></div>
